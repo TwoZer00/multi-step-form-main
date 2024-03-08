@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/TwoZer00/multi-step-form-main)
-- Live Site URL: [Live site](https://twozer00.github.io/multi-step-form-main)
+- Live Site URL: [Live site](https://keen-malabi-cc1f80.netlify.app)
 
 ## My process
 
